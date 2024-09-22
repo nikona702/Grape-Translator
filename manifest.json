@@ -1,0 +1,9 @@
+{
+    "name":"Grape Translator",
+    "version": "1.0",
+    "description":"Traduz um texto",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+    "manifest_version":2
+}
